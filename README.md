@@ -1,4 +1,4 @@
-# AmazonGo
+# TakeAndGo
 
 # Diploma project for 2021 year
 ### Team members:
