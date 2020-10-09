@@ -11,3 +11,5 @@
 # Our project is separated into different repositories:
 ### Hardware(Arduino part):
 - https://github.com/fsocietyipa/TakeAndGoMicrocontroller
+### Short dataset of products and web scraper:
+- https://github.com/fsocietyipa/TakeAndGoProductData
